@@ -1,4 +1,4 @@
-##This is a draft code generally separating some json columns, and put into DT tables (for easy glimpse purpose)
+##This is a draft code generally separating some json columns, and put into DT tables for easy glimpse purpose
 
 library(tidyverse)
 library(DT)
